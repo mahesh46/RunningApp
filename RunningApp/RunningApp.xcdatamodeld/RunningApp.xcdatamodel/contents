@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="23788.4" systemVersion="24F74" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Run" representedClassName="Run" syncable="YES" codeGenerationType="class">
+        <attribute name="distance" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="locations" optional="YES" attributeType="Transformable" valueTransformerName=" [CLLocation]"/>
+        <attribute name="timestamp" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+    </entity>
+</model>
